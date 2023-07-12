@@ -17,4 +17,7 @@ public class Aluno extends Pessoa {
     public void setNumeroMatricula(int numeroMatricula) {
         this.numeroMatricula = numeroMatricula;
     }
+
+    public static void add(Chamada novaChamada) {
+    }
 }

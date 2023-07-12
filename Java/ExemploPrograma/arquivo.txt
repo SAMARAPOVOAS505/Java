@@ -1,0 +1,6 @@
+Produto A,10.0,20
+Produto B,15.0,15
+Produto C,5.0,30
+Produto A,10.0,20
+Produto B,15.0,15
+Produto C,5.0,30

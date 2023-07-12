@@ -35,7 +35,6 @@ public class ExemploPrograma {
         System.out.print("Digite o numero de inscrição: ");
         matricula = sc.nextInt();
         Professor professor = new Professor(nome, matricula);
-        
         Curso curso = new Curso("Informática", "INF101");
         Turma turma = new Turma("T1", "14:00", professor, curso);
         
